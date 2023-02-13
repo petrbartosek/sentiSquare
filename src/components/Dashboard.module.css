@@ -1,0 +1,8 @@
+.dashboard {
+    max-width: 80vw;
+    background-color: #282c34;
+    background-color: rgb(245,245,245);
+    margin: 15px auto;
+    padding: 20px;
+    box-shadow: 2px 2px 2px rgb(200,200,200);
+}
